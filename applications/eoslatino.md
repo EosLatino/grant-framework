@@ -1,24 +1,9 @@
 # EOS Network Foundation Grant Proposal
-
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Bold Label:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
+- **Project Name:** Eos Latino
+- **Team Name:** Eos Latink
+- **EOS Payment Address:** eoslatino.gm
+- **[Level] (https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** https://pomelo.io/grants/eoslatino
 - **Project is Open-Source:** Yes/No
 - **Project was part of Token sale:** Yes/No
 - **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
@@ -27,8 +12,8 @@
 ## Contact
 
 - **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Email:** eoslatino@gmail.com
+- **Website:**
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -40,10 +25,11 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
+- **Name:** A public service available and accessible to all, without distinction or exclusion.
+- **Brief Description:** Serve all EOS Community
+EOS Latino is a service of translating from English to Spanish all relationated with EOS. 
 - **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Reason for Interest:** Expand and grow EOS Community
 
 ### Project Details
 
@@ -73,14 +59,11 @@
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Mayra Beirouti 
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** Suplitodo Basil 33
+- **Registered Address:** Páez street, Cojedes, Venezuela 
 
 ### Team Experience
 
@@ -98,13 +81,7 @@
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
 ### Team LinkedIn Profiles (if available)
-
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
 
 ## Development Status
 
@@ -194,19 +171,8 @@ For each milestone,
 
 
 ## Future Plans
-
-> Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+Recruit users in the community to work with this project.Increase the number of translations.Write articles that provide elemental and important information about updating and improvements of all projects in the community.Supports many languages.Provide support through conduct workshops.Create a Website.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+**How did you hear about the Grants Program?** EOS Network Foundation Website 
